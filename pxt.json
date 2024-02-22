@@ -9,7 +9,9 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "u2l2.md"
+        "u2l2.md",
+        "test.md",
+        "u2l1.md"
     ],
     "testFiles": [
         "test.ts"

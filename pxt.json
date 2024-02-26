@@ -11,7 +11,8 @@
         "README.md",
         "u2l2.md",
         "test.md",
-        "u2l1.md"
+        "u2l1.md",
+        "u2l3.md"
     ],
     "testFiles": [
         "test.ts"

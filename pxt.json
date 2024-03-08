@@ -13,7 +13,8 @@
         "test.md",
         "u2l1.md",
         "u2l3.md",
-        "u3l1.md"
+        "u3l1.md",
+        "u3l2.md"
     ],
     "testFiles": [
         "test.ts"

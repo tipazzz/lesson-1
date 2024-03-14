@@ -19,7 +19,12 @@
         "u4l1.md",
         "u1l1.md",
         "u1l2.md",
-        "u1l3.md"
+        "u1l3.md",
+        "u4l2.md",
+        "u4l3.md",
+        "u5l1.md",
+        "u5l2.md",
+        "u5l3.md"
     ],
     "testFiles": [
         "test.ts"

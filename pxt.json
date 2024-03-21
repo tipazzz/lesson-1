@@ -24,7 +24,8 @@
         "u4l3.md",
         "u5l1.md",
         "u5l2.md",
-        "u5l3.md"
+        "u5l3.md",
+        "u5l1-1.md"
     ],
     "testFiles": [
         "test.ts"

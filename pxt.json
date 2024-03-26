@@ -25,7 +25,8 @@
         "u5l1.md",
         "u5l2.md",
         "u5l3.md",
-        "coding-fun/test.md"
+        "coding-fun/test.md",
+        "coding-fun/lesson-3/chasm.md"
     ],
     "testFiles": [
         "test.ts"

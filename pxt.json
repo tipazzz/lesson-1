@@ -26,7 +26,11 @@
         "u5l2.md",
         "u5l3.md",
         "coding-fun/test.md",
-        "coding-fun/lesson-3/chasm.md"
+        "coding-fun/lesson-3/chasm.md",
+        "coding-fun/lesson-2/blocked-path.md",
+        "coding-fun/lesson-2/garbage.md",
+        "coding-fun/lesson-2/new_tracks.md",
+        "coding-fun/lesson-2/tracks.md"
     ],
     "testFiles": [
         "test.ts"

@@ -1,0 +1,24 @@
+### @codeStart players set @s makecode 0
+### @codeStop players set @s makecode 1
+
+### @hideIteration true 
+### @flyoutOnly 1
+### @explicitHints 1
+
+
+# Запрограммируйте Агента на сбор всего мусора!
+
+## Шаг 1
+Используйте Агента для **очистки черепашьих троп** с помощью блоков ``||agent: агент: уничтожить вперед||`` и ``||agent:агент: собрать все||``. Попробуйте использовать блок ``||loops:повторить||``, чтобы сделать код более эффективным. Когда закончите, нажмите кнопку **Play**, чтобы скомпилировать код. Не забудьте запустить свой код в Minecraft.
+
+```ghost
+player.onChat("мусор", function () {
+    for (let index = 0; index < 4; index++) {
+        agent.turn(LEFT_TURN)
+        agent.move(FORWARD, 1)
+        agent.destroy(FORWARD)
+        agent.collectAll()
+    }
+})
+```
+

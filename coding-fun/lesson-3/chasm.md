@@ -5,10 +5,10 @@
 ### @explicitHints 1
 
 
-# The great chasm!
+# Великая пропасть!
 
-## Step 1
-Program the Agent to **build a bridge** across the chasm in the ice. Use ``||agent:set block or item||`` to ensure that the Agent has the necessary materials in the inventory. Select the **oak** as a building material & **64** for the **amount of blocks**. ``||loops:while||`` the Agent does **not** detect blocks down, program the Agent to place the oak planks **down** and move **forward** to create a bridge.    
+## Шаг 1
+Запрограммируйте Агента на **строительство моста** через пропасть во льду. Используйте блок ``||agent:выдать агенту блок или предмет||``, чтобы обеспечить наличие у Агента необходимых материалов в инвентаре. Выберите **Oak Planks** в качестве строительного материала и **64** для **количества блоков**. Цикл ``||loops:пока||`` будет выполняться пока Агент **не** обнаружит блок под собой, т.е. снизу. Запрограммируйте Агента на размещение дубовых досок **вниз** и перемещение **вперед** для создания моста.    
 
 
 ```template
@@ -32,3 +32,4 @@ player.onChat("chasm", function () {
 })
 
 ``` 
+

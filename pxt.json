@@ -35,7 +35,9 @@
         "coding-fun/lesson-3/locate-cub.md",
         "coding-fun/lesson-3/separated-family.md",
         "coding-fun/lesson-4/secure_area.md",
-        "coding-fun/lesson-4/bamboo_border.md"
+        "coding-fun/lesson-4/bamboo_border.md",
+        "coding-fun/lesson-4/hideaway.md",
+        "coding-fun/lesson-4/flower.md"
     ],
     "testFiles": [
         "test.ts"

@@ -27,3 +27,4 @@ player.onChat("курица", function () {
         agent.move(UP, 1)
     }
 })
+```

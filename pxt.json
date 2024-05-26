@@ -41,7 +41,8 @@
         "coding-fun/lesson-5/cattle.md",
         "coding-fun/lesson-5/chicken_coup.md",
         "coding-fun/lesson-5/clear_area.md",
-        "coding-fun/lesson-5/hazing.md"
+        "coding-fun/lesson-5/hazing.md",
+        "coding-fun/lesson-6/animal.md"
     ],
     "testFiles": [
         "test.ts"

@@ -42,7 +42,12 @@
         "coding-fun/lesson-5/chicken_coup.md",
         "coding-fun/lesson-5/clear_area.md",
         "coding-fun/lesson-5/hazing.md",
-        "coding-fun/lesson-6/animal.md"
+        "coding-fun/lesson-6/animal.md",
+        "coding-fun/lesson-7/3d_space.md",
+        "coding-fun/lesson-7/material_detect.md",
+        "coding-fun/lesson-7/simulations.md",
+        "coding-fun/lesson-7/spiral.md",
+        "coding-fun/lesson-7/surrounding_detect.md"
     ],
     "testFiles": [
         "test.ts"

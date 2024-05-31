@@ -47,7 +47,12 @@
         "coding-fun/lesson-7/material_detect.md",
         "coding-fun/lesson-7/simulations.md",
         "coding-fun/lesson-7/spiral.md",
-        "coding-fun/lesson-7/surrounding_detect.md"
+        "coding-fun/lesson-7/surrounding_detect.md",
+        "coding-fun/lesson-8/find_crater.md",
+        "coding-fun/lesson-8/find_surface.md",
+        "coding-fun/lesson-8/gathering.md",
+        "coding-fun/lesson-8/help_agent.md",
+        "coding-fun/lesson-8/locate_sample.md"
     ],
     "testFiles": [
         "test.ts"

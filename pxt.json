@@ -57,7 +57,9 @@
         "coding-fun/lesson-9/activity_4.md",
         "coding-fun/lesson-9/activity_3.md",
         "coding-fun/lesson-9/activity_2.md",
-        "coding-fun/lesson-9/activity_1.md"
+        "coding-fun/lesson-9/activity_1.md",
+        "coding-fun/lesson-10/activity_1.md",
+        "coding-fun/lesson-10/activity_2.md"
     ],
     "testFiles": [
         "test.ts"

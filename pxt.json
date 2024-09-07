@@ -63,7 +63,12 @@
         "coding-fun/lesson-10/activity_3.md",
         "coding-fun/lesson-10/activity_4.md",
         "coding-fun/lesson-11/activity-1.md",
-        "coding-fun/lesson-12/space.md"
+        "coding-fun/lesson-12/space.md",
+        "coding-fun/lesson-2/agent-move.md",
+        "coding-fun/lesson-2/agent-up.md",
+        "coding-fun/lesson-2/agent.md",
+        "coding-fun/lesson-2/last-room.md",
+        "coding-fun/lesson-2/welcome.md"
     ],
     "testFiles": [
         "test.ts"
